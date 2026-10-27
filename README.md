@@ -1,5 +1,8 @@
 # Eon
 
+DOWNLOAD: https://github.com/TheEonProject/eon/releases/latest/download/welcome-to-eon.exe
+
+
 A Minecraft: Java Edition launcher built with Electron.
 
 - Instances with their own name, icon, loader (Vanilla, Fabric, NeoForge, Forge, Quilt), game version (1.17 to the newest 26.x, plus 1.12.2 and 1.8.9) and loader version.
